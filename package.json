@@ -1,0 +1,24 @@
+{
+  "name": "chat-part-three",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sinner/chat-privates.git"
+  },
+  "keywords": [
+    "chat",
+    "privates",
+    "messages"
+  ],
+  "author": "Smitha Mili",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinner/chat-privates/issues"
+  },
+  "homepage": "https://github.com/sinner/chat-privates#readme"
+}
